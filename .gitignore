@@ -12,5 +12,9 @@ nbproject
 *.sw[po]
 .eprj
 
+# Cocoapods
+vendor/Pods
+vendor/Podfile.lock
+
 # include the following
 !.rbenv-version
